@@ -1,0 +1,10 @@
+25-05-2023 09:54:22	This log contains information about the import schema operation into project 'CICD' on computer 'LIN83003045' by user 'MUNKIRAN'.
+25-05-2023 09:54:22	Deserializing model
+25-05-2023 09:54:22	Resolving model
+25-05-2023 09:54:22	Visiting imported model for types
+25-05-2023 09:54:22	Scanning project for duplicate elements
+25-05-2023 09:54:23	Finished duplicate element processing
+25-05-2023 09:54:23	Processing extra files
+25-05-2023 09:54:23	Finished importing Data-tier Application file.
+25-05-2023 09:54:23	A summary of the import was saved to the following location: C:\Users\MUNKIRAN\source\CICD_bloodbank\CICD_Repo\CICD_bloodbank\CICD\Import Schema Logs\CICD_20230525042422.log
+25-05-2023 09:54:23	Click Finish to continue...
